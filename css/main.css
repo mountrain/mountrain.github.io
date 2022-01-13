@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff957a;
+  background: #6aa18e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2562,4 +2562,11 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: url("https://mikgo.oss-cn-beijing.aliyuncs.com/01A4AD07-E9DD-4714-A751-BA2161DBA939.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
